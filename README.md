@@ -30,4 +30,4 @@ Si ya confirmamos que nos aparece la leyenda PRO del paso anterior, podemos hace
 ![correo](Images/6ignorar.PNG)
 
 **Espero la información les sea de utilidad! Que el código las acompañe.** 
-![correo](Images/7manos.PNG)
+![correo](Images/7manos.png)
