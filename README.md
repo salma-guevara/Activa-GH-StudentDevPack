@@ -1,8 +1,8 @@
 # Activación GH_Student_Dev_Pack
  Manual para activar el GitHub Student Developer Pack
 
-### Hola compañeras, espero que esto les pueda ayudar con la activación de su GitHub Student Developer Pack.
-**IMPORTANTE: Debemos tener iniciada nuestra seión de GitHub en el navegador que estemos usando**
+### Hola compañeras, espero que esto les pueda ayudar con la activación de su GitHub Student Developer Pack.👌
+**IMPORTANTE: Debemos tener iniciada nuestra sesión de GitHub en el navegador que estemos usando**
 
 **Paso 1: Abrir nuestro correo Hackademy**
 Ingresamos nuestros datos (correo y contraseña).
